@@ -1,1 +1,2 @@
 # pandemic-simulator
+The aim of this project was to develop a quantitative method for clinicians to predict the probability of a person having coronavirus disease (COVID-19).We have predicted the percent probability of a person for being infected with coronavirus with the help of some basic information like age, precautions taken, environmental conditions and distance between them by applying various graph algorithms and taking probability factors into account.
